@@ -1,0 +1,5 @@
+Label,Abbreviation,Full Form,Description
+0,—,Background / Non-tumor,Healthy tissue or non-labeled area
+1,NCR,Necrotic Core Region,Dead/necrotic tissue at tumor center
+2,ED,Edema,Swelling or inflammation around tumor
+3,ET,Enhancing Tumor,"Actively growing tumor, contrast-enhanced"
