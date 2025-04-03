@@ -1,0 +1,7 @@
+Best Dice Score: 0.7816 at Epoch: 5
+Total Training Time: 10371.49 sec
+
+Average Dice Scores Per Class:
+  Tumor Core (TC): 0.5993
+  Whole Tumor (WT): 0.7094
+  Enhancing Tumor (ET): 0.5865
